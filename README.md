@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MacMillan-dev
+- 👋 Hi there'
 - Business and Information Technology Student
-- 👀 I’m interested in learning frontend development
+- 👀 Currently learning frontend development
 - 💞️ I’m looking to collaborate on interesting projects and ideas
 - How you can reach me - munenenjue18@gmail.com
 <!---
