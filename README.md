@@ -1,7 +1,7 @@
-- 👋 Hi there'
+- 👋 Welcome to my profile!
 - Business and Information Technology Student
-- 👀 Currently learning frontend development
-- 💞️ I’m looking to collaborate on interesting projects and ideas
+- 👀 Frontend developer working with HTML,CSS,Javascript
+- 💞️ I’m looking for junior frontend roles as well as any awesome projects to collaborate :)
 - How you can reach me - munenenjue18@gmail.com
 <!---
 MacMillan-dev/MacMillan-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
