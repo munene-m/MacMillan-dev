@@ -1,5 +1,5 @@
 - 👋 Welcome to my profile!
-- Business and Information Technology Student
+- Final year student pursuing a Business and Information Technology degree
 - 👀 Frontend developer working with HTML,CSS,Javascript,Vue
 - 💞️ I’m looking for junior frontend roles as well as any awesome projects to collaborate :)
 - How you can reach me - munenenjue18@gmail.com
