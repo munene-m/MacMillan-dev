@@ -1,4 +1,4 @@
-<div id="header" align="center">
+No<div id="header" align="center">
   <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="100" />
   <div id="badges">
   <a href="munenenjue18@gmail.com">
@@ -20,11 +20,11 @@
 
 ### :man_technologist: About Me :
   I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-  - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+  - :telescope: I’m currently learning Vue Js.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I enjoy video games.
+- :zap: In my free time, I enjoy playing video games.
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](munenenjue18@gmail.com)
 
